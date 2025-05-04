@@ -2,6 +2,7 @@
 
 Fluxus Executor has become one of the most popular Roblox executors due to its blend of power, simplicity, and cross-platform support. Whether you’re a veteran scripter or a newcomer looking to automate tasks and unlock hidden game mechanics, Fluxus delivers unmatched flexibility and performance. Fluxus’s combination of Level 7/8 Lua injection, keyless operation, and built-in Script Hub elevates your Roblox gameplay and scripting workflow.
 
+[![Download Fluxus](https://img.shields.io/badge/Download-Fluxus-blueviolet)](https://rotools.bitbucket.io/executors/fluxus)
 ---
 
 ## Key Features of Fluxus Executor
